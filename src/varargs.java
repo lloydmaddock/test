@@ -23,7 +23,10 @@ public class varargs {
 			break;
 		case HARRY:
 			System.out.println("HARRY");
-			break;		
+			break;
+		case BASIL:
+			System.out.println("BASIL");
+			break;				
 		default:
 		}
 		
