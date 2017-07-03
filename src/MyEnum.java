@@ -6,6 +6,7 @@ public class MyEnum {
 		TOM,
 		DICK,
 		HARRY,
-		BASIL
+		BASIL,
+		DEBBIE
 	};
 }
